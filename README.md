@@ -1,0 +1,1 @@
+A GLUT library test in C++, kinda lacking due to it being one of my first projects programming.
