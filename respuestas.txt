@@ -1,0 +1,6 @@
+Si
+No
+Tal_vez
+Probablemente_Si
+Probablemente_No
+Prueba_de_nuevo
